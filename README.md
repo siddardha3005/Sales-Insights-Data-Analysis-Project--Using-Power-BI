@@ -23,3 +23,10 @@ Total Revenue:984.81M
 | Mumbai    | 32.18%     |
 | Ahmedabad | 13.77%     |
 
+# Sales By Customer Type 
+
+| Customer Type         | Percentage |
+| ----------------------| ------     |
+| Brick & Mortar        | 75.6%      |
+|  E-Commerce           | 24.4 %     |
+
