@@ -41,3 +41,13 @@ Total Revenue:984.81M
 4.Premium Stores:7.47%
 
 5.Nixon:7.3%
+
+# Temporal Analysis
+
+# Fluctuation of Sales Per Year
+
+1.Clear upward trend from 2017 to 2018.
+
+2.Significant 2018 spike indicating strong  season performance.
+
+3.Significant downward trend from 2018 to 2020.
