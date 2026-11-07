@@ -16,3 +16,10 @@ Total Revenue:984.81M
 | 2019 | 847083|
 | 2020 | 350240|
 
+# Top 3 Sales By Area
+| Area      | Percentage |
+| ----------| ------     |
+| Delhi-NCR | 54.05%     |
+| Mumbai    | 32.18%     |
+| Ahmedabad | 13.77%     |
+
