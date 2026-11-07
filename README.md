@@ -7,5 +7,12 @@ Total Sales:2M
 
 Total Revenue:984.81M
 
-
+# Performance Breakdown
+# Sales By Year
+| Year | Value |
+| -----| ------|
+| 2017 | 234462|
+| 2018 | 997497|
+| 2019 | 847083|
+| 2020 | 350240|
 
