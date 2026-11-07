@@ -30,3 +30,14 @@ Total Revenue:984.81M
 | Brick & Mortar        | 75.6%      |
 |  E-Commerce           | 24.4 %     |
 
+# Top 5 Customers
+
+1.Electricalsara Stores:68.79%
+
+2.Electricalslytical:8.26%
+
+3.Excel Stores:8.17%
+
+4.Premium Stores:7.47%
+
+5.Nixon:7.3%
